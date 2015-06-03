@@ -1,0 +1,51 @@
+rank,state,income
+1,Maryland,69272
+2,Alaska,68342
+3,New Jersey,67458
+4,Connecticut,66953
+5,Massachusetts,62081
+6,New Hampshire,64712
+7,Virginia,61330
+8,Hawaii,59290
+9,Minnesota,58931
+10,California,69860
+11,Delaware,58548
+12,Washington,54616
+13,Wyoming,55430
+14,Utah,55117
+15,Colorado,54659
+16,New York,55246
+17,Rhode Island,53636
+18,Illinois,53341
+19,Vermont,52664
+20,North Dakota,51704
+21,Wisconsin,49993
+22,Nebraska,49520
+23,Pennsylvania,48745
+24,Iowa,48457
+25,Texas,48259
+26,Kansas,48044
+27,Nevada,47827
+28,South Dakota,48321
+29,Oregon,47590
+30,Arizona,47357
+31,Indiana,45734
+32,Maine,45424
+33,Georgia,45395
+34,Michigan,45255
+35,Ohio,45229
+36,Missouri,45043
+37,Florida,44926
+38,Montana,44736
+39,North Carolina,43916
+40,Idaho,43028
+41,Oklahoma,42492
+42,South Carolina,42367
+43,New Mexico,41963
+44,Louisiana,41725
+45,Tennessee,41664
+46,Alabama,40489
+47,Kentucky,40072
+48,Arkansas,37823
+49,West Virginia,38482
+50,Mississippi,36646
